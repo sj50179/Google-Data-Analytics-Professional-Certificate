@@ -9,3 +9,8 @@
 - [Setting up a data toolbox](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.4.Setting-up-a-data-toolbox)
 - [Discovering data career possibilities](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.5.Discovering-data-career-possibilities)
 - [Course Challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.6.Course-Challenge)
+
+
+***
+
+© 2021 Coursera Inc. All rights reserved.
