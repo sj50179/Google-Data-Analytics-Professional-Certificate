@@ -10,6 +10,12 @@
 - [Discovering data career possibilities](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.5.Discovering-data-career-possibilities)
 - [Course Challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.6.Course-Challenge)
 
+## 2. Foundations: Data, Data, Everywhere
+- [Asking effective questions](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.1.Asking-effective-questions)
+- [Making data-driven decisions]()
+- [Learning spreadsheet basics]()
+- [Always remember the stakeholder]()
+- [Course challenge]()
 
 ***
 
