@@ -14,8 +14,8 @@
 - [Asking effective questions](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.1.Asking-effective-questions)
 - [Making data-driven decisions](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.2.Making-data-driven-decisions)
 - [Learning spreadsheet basics](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.3.Learning-spreadsheet-basics)
-- [Always remember the stakeholder]()
-- [Course challenge]()
+- [Always remember the stakeholder](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.4.Always-remember-the-stakeholder)
+- [Course challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.5.Course-challenge)
 
 ***
 
