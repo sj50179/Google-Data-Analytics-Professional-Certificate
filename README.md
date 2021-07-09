@@ -17,6 +17,13 @@
 - [Always remember the stakeholder](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.4.Always-remember-the-stakeholder)
 - [Course challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.5.Course-challenge)
 
+## 3. Prepare Data for Exploration
+- [Data types and data structures](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/3.1.Data-types-and-data-structures)
+- [Bias, credibility, privacy, ethics, and access](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/3.2.Bias,-credibility,-privacy,-ethics,-and-access)
+- [Databases: Where data lives](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/3.3.Databases:-Where-data-lives)
+- [Organizing and protecting your data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/3.4.Organizing-and-protecting-your-data)
+- [Course challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/3.5.Course-challenge)
+
 ***
 
 © 2021 Coursera Inc. All rights reserved.
