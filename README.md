@@ -24,6 +24,10 @@
 - [Organizing and protecting your data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/3.4.Organizing-and-protecting-your-data)
 - [Course challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/3.5.Course-challenge)
 
+## 4. Process Data from Dirty to Clean
+- [The importance of integrity](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.1.The-importance-of-integrity)
+- [Sparkling-clean data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.2.Sparkling-clean-data)
+
 ***
 
 © 2021 Coursera Inc. All rights reserved.
