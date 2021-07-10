@@ -27,6 +27,8 @@
 ## 4. Process Data from Dirty to Clean
 - [The importance of integrity](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.1.The-importance-of-integrity)
 - [Sparkling-clean data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.2.Sparkling-clean-data)
+- [Cleaning data with SQL](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.3.Cleaning-data-with-SQL)
+- [Verify and report on your cleaning results]()
 
 ***
 
