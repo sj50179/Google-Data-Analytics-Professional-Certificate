@@ -28,7 +28,8 @@
 - [The importance of integrity](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.1.The-importance-of-integrity)
 - [Sparkling-clean data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.2.Sparkling-clean-data)
 - [Cleaning data with SQL](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.3.Cleaning-data-with-SQL)
-- [Verify and report on your cleaning results]()
+- [Verify and report on your cleaning results](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.4.Verify-and-report-on-your-cleaning-results)
+- [Course challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.5.Course-challenge)
 
 ***
 
