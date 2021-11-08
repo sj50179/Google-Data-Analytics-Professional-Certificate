@@ -1,6 +1,9 @@
 # [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-### My study notes (since Apr 20, 2021)
+Study notes (Apr 20, 2021 - Sep 22, 2021)
+
+### [My Certificate URL](https://www.coursera.org/account/accomplishments/professional-cert/W4Q4V9JECJ5Q)
+![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W4Q4V9JECJ5Q/CERTIFICATE_LANDING_PAGE~W4Q4V9JECJ5Q.jpeg)
 
 ## 1. Foundations: Data, Data, Everywhere
 - [Introducing data analytics](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.1.Introducing-data-analytics)
@@ -30,6 +33,39 @@
 - [Cleaning data with SQL](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.3.Cleaning-data-with-SQL)
 - [Verify and report on your cleaning results](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.4.Verify-and-report-on-your-cleaning-results)
 - [Course challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/4.5.Course-challenge)
+
+## 5. Analyze Data to Answer Questions
+- [Organizing data to begin analysis](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/5.1.Organizing-data-to-begin-analysis)
+- [Formatting and adjusting data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/5.2.Formatting-and-adjusting-data)
+- [Aggregating data for analysis](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/5.3.Aggregating-data-for-analysis)
+- [Performing data calculations](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/5.4.Performing-data-calculations)
+- [Course challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/5.5.Course-challenge)
+- [(Bonus) Intermediate Guide to SQL](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/5.6.bonus.Intermediate-Guide-to-SQL)
+
+## 6. Share Data Through the Art of Visualization
+- [Visualizing data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/6.1.Visualizing-data)
+- [Creating data visualizations with Tableau](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/6.2.Creating-data-visualizations-with-Tableau)
+- [Crafting data stories](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/6.3.Crafting-data-stories)
+- [Developing presentations and slideshows](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/6.4.Developing-presentations-and-slideshows)
+- [Course challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/6.5.Course-challenge)
+
+## 7. Data Analysis with R Programming
+
+- [Programming and data analytics](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/7.1.Programming-and-data-analytics)
+- [Programming using RStudio](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/7.2.Programming-using-RStudio)
+- [Working with data in R](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/7.3.Working-with-data-in-R)
+- [More about visualizations, aesthetics, and annotations](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/7.4.More-about-visualizations,-aesthetics,-and-annotations)
+- [Documentation and reports](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/7.5.Documentation-and-reports)
+- [Course Challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/7.6.Course-Challenge)
+
+## 8. Complete a Case Study
+
+- [Learn about capstone basics - Introduction to the capstone & Sample cases for data analysts](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/8.1.Learn-about-capstone-basics)
+- [Optional: Building your portfolio](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/8.2.Optional:-Building-your-portfolio)
+- [Optional: Using your portfolio](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/8.3.Optional:-Using-your-portfolio)
+
+***
+- [Glossary](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/Glossary)
 
 ***
 
