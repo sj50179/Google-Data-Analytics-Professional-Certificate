@@ -1,7 +1,5 @@
 # [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-Study notes (Apr 20, 2021 - Sep 22, 2021)
-
 ### [My Certificate URL](https://www.coursera.org/account/accomplishments/professional-cert/W4Q4V9JECJ5Q)
 ![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W4Q4V9JECJ5Q/CERTIFICATE_LANDING_PAGE~W4Q4V9JECJ5Q.jpeg)
 
