@@ -28,7 +28,7 @@ In addition to expert training and hands-on projects, you'll complete a case stu
 - [Discovering data career possibilities](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.5.Discovering-data-career-possibilities)
 - [Course Challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.6.Course-Challenge)
 
-## 2. Foundations: Data, Data, Everywhere
+## 2. Ask Questions to Make Data-Driven Decisions
 - [Asking effective questions](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.1.Asking-effective-questions)
 - [Making data-driven decisions](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.2.Making-data-driven-decisions)
 - [Learning spreadsheet basics](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.3.Learning-spreadsheet-basics)
